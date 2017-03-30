@@ -3,7 +3,7 @@ Fighting hate by scraping web advertisements and holding the advertisers account
 
 * Short description: create a series of simple tools to scrape the ads on webpages and build a list of the advertisers.
 
-== MVP Game Plan ==
+*MVP*
 
 * Create a selenium or siliar tool that can go to a webpage, traverse the pages, pick out the advertisements and screen capture them (preferably cropped) and save to disk or a database with an associated json file of metadata.
 * Create cloud infrastructure to run multiple versions of the selenium tool and have them dump to the same bucket or db.
@@ -13,3 +13,6 @@ Fighting hate by scraping web advertisements and holding the advertisers account
 * Long term: use OCR and a neural net to recognize text and logos.
 * MVP: Create a jupyter notebook to retrive crowd labeled data, merge it with the raw collection data, clean it up, and show results.
 * Publish results in a blog post.
+
+_pull requests gladly accepted_
+_see something you can do, hit me up, write a ticket, go to town._
