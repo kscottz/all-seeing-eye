@@ -15,4 +15,6 @@ Fighting hate by scraping web advertisements and holding the advertisers account
 * Publish results in a blog post.
 
 _pull requests gladly accepted_
+
+
 _see something you can do, hit me up, write a ticket, go to town._
